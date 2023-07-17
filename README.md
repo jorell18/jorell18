@@ -3,7 +3,7 @@
 
       ReactJS
       
-      ThreeJS
+      VueJS
       
       Front-end development
       
@@ -12,12 +12,19 @@
 - 🌱 I’m currently learning ...
 
       ReactJS
+  
+      NextJS
+  
+      VueJS
+  
+      Vite
+  
+      Pinia
 
-      Redux
     
 - 💞️ I’m looking to collaborate on ...
 
-      More ReactJS apps for improvement
+      More ReactJS/VueJS apps for improvement
     
 - 📫 How to reach me ...
     
